@@ -39,3 +39,10 @@ Write a program that asks the user how many credits they have taken. If they hav
 
 ### 4. My Solution:
 [creditsAndCorrespondingMessage.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/8bea20532e2cf91945cdb4202a3778fddfe160c7/Assignment%202/creditsAndCorrespondingMessage.py)
+
+## 5. Leap Year or Not.
+### 5. Instruction:
+A year is a leap year if it is divisible by 4, except that years divisible by 100 are not leap years unless they are also divisible by 400. Write a program that asks the user for a year and prints out whether it is a leap year or not.
+
+### 5. My Solution:
+[leapYear.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/801aa4deb98ac62fd71f1d61503779fe94c03b15/Assignment%202/leapYear.py)
