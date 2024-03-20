@@ -31,3 +31,11 @@ Ask the user to enter a temperature in Celsius. The program should print a messa
 
 ### 3. My Solution:
 [celsiusAndMessage.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/d5fb2a0283c26eba5488d9fe9af72610d8907fd6/Assignment%202/celsiusAndMessage.py)
+
+## 4. Credits and Corresponding Message.
+### 4. Instruction:
+Write a program that asks the user how many credits they have taken. If they have taken 23 or less, print that the student is a freshman. If they have taken between 24 and 53, print that they are a sophomore. The range for juniors is 54 to 83, and for seniors it is 84 and over.
+
+
+### 4. My Solution:
+[creditsAndCorrespondingMessage.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/8bea20532e2cf91945cdb4202a3778fddfe160c7/Assignment%202/creditsAndCorrespondingMessage.py)
