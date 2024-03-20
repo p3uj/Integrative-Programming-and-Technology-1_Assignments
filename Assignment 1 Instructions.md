@@ -21,3 +21,11 @@ Write a Python program that prompts the user for two numbers, reads them in, and
 
 [Sol2_productOfTwoNumbers.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ef64a3ba7bf5774efc3617ea35d17862e63c57bc/Assignment%201/Sol2_productOfTwoNumbers.py)
 
+## 3. Print arithmetic sum of two - int and string
+### 3. Instruction:
+Suppose you know x is an integer and ys is a string representing an integer. For instance, x is 3 and ys is ‘24’. Write code to print out the arithmetic sum of the two. In the example case, 27 would be printed.
+
+### 3. My Solution:
+[Sol1_sumOfTwo(int and str).py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ef64a3ba7bf5774efc3617ea35d17862e63c57bc/Assignment%201/Sol1_sumOfTwo(int%20and%20str).py)
+
+[Sol2_sumOfTwo(int and str).py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ef64a3ba7bf5774efc3617ea35d17862e63c57bc/Assignment%201/Sol2_sumOfTwo(int%20and%20str).py)
