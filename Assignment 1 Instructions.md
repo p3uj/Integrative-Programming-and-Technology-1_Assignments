@@ -1,6 +1,15 @@
 # Lesson 1: Introduction to Python Programming
 
 ##### TABLE OF CONTENTS
+  * [1. Minutes to Seconds.](#1-minutes-to-seconds)
+    + [1. Instruction:](#1-instruction-)
+    + [1. My Solution:](#1-my-solution-)
+  * [2. Product of the two numbers.](#2-product-of-the-two-numbers)
+    + [2. Instruction:](#2-instruction-)
+    + [2. My Solution:](#2-my-solution-)
+  * [3. Print arithmetic sum of two - int and string](#3-print-arithmetic-sum-of-two---int-and-string)
+    + [3. Instruction:](#3-instruction)
+    + [3. My Solution:](#3-my-solution)
 
 
 ## 1. Minutes to Seconds.
