@@ -60,3 +60,10 @@ Start with the list [8,9,10]. Do the following:
 
 ### 4. My Solution:
 [list transformation.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/bc2a82663637f7216aa28b62c073e8285b6d7106/Assignment%203/list%20transformation.py)
+
+## 5. Factors of an Integer.
+### 5. Instruction:
+Write a program that asks the user for an integer and creates a list that consists of the factors of that integer.
+
+### 5. My Solution:
+[factors of the integer.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/d2c7bf5d785608be4c51973bfc6e376f2759cfd7/Assignment%203/factors%20of%20the%20integer.py)
