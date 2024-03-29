@@ -67,3 +67,10 @@ Write a program that asks the user for an integer and creates a list that consis
 
 ### 5. My Solution:
 [factors of the integer.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/d2c7bf5d785608be4c51973bfc6e376f2759cfd7/Assignment%203/factors%20of%20the%20integer.py)
+
+## 6. Remove Repeated Items from the List.
+### 6. Instruction:
+Write a program that removes any repeated items from a list so that each item appears at most once. For instance, the list [1,1,2,3,4,3,0,0] would become [1,2,3,4,0].
+
+### 6. My Solution:
+[remove repeated items from the list.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/2003d6d1e1ccd7e28648d3de964f7671eaec23a6/Assignment%203/remove%20repeated%20items%20from%20the%20list.py)
