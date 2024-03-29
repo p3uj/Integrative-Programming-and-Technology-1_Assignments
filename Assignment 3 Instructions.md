@@ -30,3 +30,18 @@ g.	Remove False from the list using pop and index
 
 ### 2. My Solution:
 [previous_list_do_the_following_statement.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/0d048c78f0ea131ffe643f7c830df696a0501981/Assignment%203/previous_list_do_the_following_statement.py)
+
+## 3. .
+### 3. Instruction:
+Write a program that asks the user to enter size of list and input a list of integers. Do the following:
+
+- Print the sum of items in the list.
+- Print the last item in the list.
+- Print the list in reverse order.
+- Print Yes if the list contains a 5 and No otherwise.
+- Print how many integers in the list are less than 5.
+- Remove the first and last items from the list, sort the remaining items, and print the result.
+
+
+### 3. My Solution:
+[List Operations - Sum, Last, Reverse, Contains 5, Less than 5, Sorted.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/e5c76c91fec2e28782dd6c2f1af8db19142864df/Assignment%203/List%20Operations%20-%20Sum%2C%20Last%2C%20Reverse%2C%20Contains%205%2C%20Less%20than%205%2C%20Sorted.py)
