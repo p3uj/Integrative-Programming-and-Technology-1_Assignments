@@ -45,3 +45,18 @@ Write a program that asks the user to enter size of list and input a list of int
 
 ### 3. My Solution:
 [List Operations - Sum, Last, Reverse, Contains 5, Less than 5, Sorted.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/e5c76c91fec2e28782dd6c2f1af8db19142864df/Assignment%203/List%20Operations%20-%20Sum%2C%20Last%2C%20Reverse%2C%20Contains%205%2C%20Less%20than%205%2C%20Sorted.py)
+
+## 4. List using append and concatenation.
+### 4. Instruction:
+Start with the list [8,9,10]. Do the following:
+
+- Set the second entry (index 1) to 17.
+- Add 4, 5, and 6 to the end of the list.
+- Remove the first entry from the list.
+- Sort the list.
+- Double the list f. Insert 25 at index 3.
+- The final list should equal [4,5,6,25,10,17,4,5,6,10,17].
+
+
+### 4. My Solution:
+[list transformation.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/bc2a82663637f7216aa28b62c073e8285b6d7106/Assignment%203/list%20transformation.py)
