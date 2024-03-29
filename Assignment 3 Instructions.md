@@ -46,7 +46,7 @@ Write a program that asks the user to enter size of list and input a list of int
 ### 3. My Solution:
 [List Operations - Sum, Last, Reverse, Contains 5, Less than 5, Sorted.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/e5c76c91fec2e28782dd6c2f1af8db19142864df/Assignment%203/List%20Operations%20-%20Sum%2C%20Last%2C%20Reverse%2C%20Contains%205%2C%20Less%20than%205%2C%20Sorted.py)
 
-## 4. List using append and concatenation.
+## 4. List Transformation.
 ### 4. Instruction:
 Start with the list [8,9,10]. Do the following:
 
