@@ -31,7 +31,7 @@ g.	Remove False from the list using pop and index
 ### 2. My Solution:
 [previous_list_do_the_following_statement.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/0d048c78f0ea131ffe643f7c830df696a0501981/Assignment%203/previous_list_do_the_following_statement.py)
 
-## 3. .
+## 3. List Operations - Sum, Last, Reverse, Contains 5, Less than 5, Sorted.
 ### 3. Instruction:
 Write a program that asks the user to enter size of list and input a list of integers. Do the following:
 
