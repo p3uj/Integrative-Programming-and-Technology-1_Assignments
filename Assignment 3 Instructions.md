@@ -1,6 +1,24 @@
 # Lesson 3: Python List
 
 ##### TABLE OF CONTENTS
+  * [1. List using append and concatenation.](#1-list-using-append-and-concatenation)
+    + [1. Instruction:](#1-instruction)
+    + [1. My Solution:](#1-my-solution)
+  * [2. Previous List. Do the following statement.](#2-previous-list-do-the-following-statement)
+    + [2. Instruction:](#2-instruction)
+    + [2. My Solution:](#2-my-solution)
+  * [3. List Operations - Sum, Last, Reverse, Contains 5, Less than 5, Sorted.](#3-list-operations---sum--last--reverse--contains-5--less-than-5--sorted)
+    + [3. Instruction:](#3-instruction)
+    + [3. My Solution:](#3-my-solution)
+  * [4. List Transformation.](#4-list-transformation)
+    + [4. Instruction:](#4-instruction)
+    + [4. My Solution:](#4-my-solution)
+  * [5. Factors of an Integer.](#5-factors-of-an-integer)
+    + [5. Instruction:](#5-instruction)
+    + [5. My Solution:](#5-my-solution)
+  * [6. Remove Repeated Items from the List.](#6-remove-repeated-items-from-the-list)
+    + [6. Instruction:](#6-instruction)
+    + [6. My Solution:](#6-my-solution)
 
 
 ## 1. List using append and concatenation.
