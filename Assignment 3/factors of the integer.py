@@ -4,7 +4,7 @@ def getFactors(num):
         if num % divisor == 0:  # Check and execute if the num is divisible by the divisor.
             factors.append(divisor) # Add the divisor to the list.
             if num < 0: # Check and execute if the num is a negative.
-                factors.append(-abs(divisor))   # Add the negative value of divisor to the list.
+                factors.append(-divisor)   # Add the negative value of divisor to the list.
     return factors  # Return the list to the calling function.
 
 while True:
