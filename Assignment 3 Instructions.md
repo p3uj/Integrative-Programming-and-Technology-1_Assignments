@@ -1,4 +1,4 @@
-# Lesson 3: Python List
+# Lesson 4: Python List
 
 ##### TABLE OF CONTENTS
   * [1. List using append and concatenation.](#1-list-using-append-and-concatenation)
