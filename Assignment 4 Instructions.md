@@ -20,3 +20,24 @@ Write a program that will ask user to input a list of integer tuples. Ask also f
 
 ### 2. My Solution:
 [tuples-finding_divisible.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ba6d62882305ab343d241d250bd246840a4c238f/Assignment%204/tuples-finding_divisible.py)
+
+## 3. Dictionary Months and Days.
+### 3. Instruction:
+Here is a dictionary of the days in the months of the year:
+
+days = {'January':31, 'February':28, 'March':31, 'April':30, 'May':31, 'June':30, 'July':31, 'August':31, 'September':30, 'October':31, 'November':30, 'December':31}
+
+- Ask the user to enter a month name and use the dictionary to tell them how many days are in the month.
+- Print out all of the keys in alphabetical order.
+- Print out all of the months with 31 days.
+- Print out the (key-value) pairs sorted by the number of days in each month.
+
+### 3. My Solution:
+[month_day_dictionary.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/119c51fd994b6d66943c3c0d7f6f3f8c6c0fea71/Assignment%204/month_day_dictionary.py)
+
+## 4. Dictionary Products and Prices.
+### 4. Instruction:
+Write a program that repeatedly asks the user to enter product names and prices. Store all of these in a dictionary whose keys are the product names and whose values are the prices. When the user is done entering products and prices, allow them to repeatedly enter a product name and print the corresponding price or a message if the product is not in the dictionary.
+
+### 4. My Solution:
+[products_and_prices.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ab42fd8c501f651a464e35b19fee6b242ca1d29b/Assignment%204/products_and_prices.py)
