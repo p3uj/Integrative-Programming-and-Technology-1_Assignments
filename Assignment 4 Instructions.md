@@ -41,3 +41,16 @@ Write a program that repeatedly asks the user to enter product names and prices.
 
 ### 4. My Solution:
 [products_and_prices.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/ab42fd8c501f651a464e35b19fee6b242ca1d29b/Assignment%204/products_and_prices.py)
+
+## 5. Dictionary Accounts Credentials.
+### 5. Instruction:
+Write a program that uses a dictionary that contains ten user names and passwords. The program should ask the user to enter their username and password.
+
+If the username is not in the dictionary, the program should indicate that the person is not a valid user of the system.
+
+If the username is in the dictionary, but the user does not enter the right password, the program should say that the password is invalid.
+
+If the password is correct, then the program should tell the user that they are now logged in to the system.
+
+### 5. My Solution:
+[user_name_and_password.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/aff470dae01c8dcee6e5cae4a531699d1fcbd2d9/Assignment%204/user_name_and_password.py)
