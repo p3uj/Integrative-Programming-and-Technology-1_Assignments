@@ -1,6 +1,21 @@
 # Lesson 5: Python Tuples and Dictionaries
 
 ##### TABLE OF CONTENTS
+  * [1. Tuple list number and its square of that number.](#1-tuple-list-number-and-its-square-of-that-number)
+    + [1. Instruction:](#1-instruction)
+    + [1. My Solution:](#1-my-solution)
+  * [2. Tuples finding divisible.](#2-tuples-finding-divisible)
+    + [2. Instruction:](#2-instruction)
+    + [2. My Solution:](#2-my-solution)
+  * [3. Dictionary Months and Days.](#3-dictionary-months-and-days)
+    + [3. Instruction:](#3-instruction)
+    + [3. My Solution:](#3-my-solution)
+  * [4. Dictionary Products and Prices.](#4-dictionary-products-and-prices)
+    + [4. Instruction:](#4-instruction)
+    + [4. My Solution:](#4-my-solution)
+  * [5. Dictionary Accounts Credentials.](#5-dictionary-accounts-credentials)
+    + [5. Instruction:](#5-instruction)
+    + [5. My Solution:](#5-my-solution)
 
 
 ## 1. Tuple list number and its square of that number.
