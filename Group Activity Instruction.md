@@ -8,3 +8,12 @@ Write a function called primes that is given a number n and returns a list of th
 
 ### 1. My Solution:
 [list of the n prime numbers.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/4c92225b78b1a46cbd94845003bf7d65478baf2f/Group%20Activity/list%20of%20the%20n%20prime%20numbers.py)
+
+## 2. List of n primes with optional argument.
+### 2. Instruction:
+Modify the function above so that there is an optional argument called start that allows the list to start at a value other than 2. The function should return the first n primes that are greater than or equal to start. The default value of start should be 2.
+
+### 2. My Solution:
+[Sol1-list of primes with optional argument and user input.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/913991eed02498c7834c9100e5ffc94e5fd21a0e/Group%20Activity/Sol1-list%20of%20primes%20with%20optional%20argument%20and%20user%20input.py)
+
+[Sol2-list of primes with optional argument.py](https://github.com/p3uj/Integrative-Programming-and-Technology-1_Assignments/blob/913991eed02498c7834c9100e5ffc94e5fd21a0e/Group%20Activity/Sol2-list%20of%20primes%20with%20optional%20argument.py)
