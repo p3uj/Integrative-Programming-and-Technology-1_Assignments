@@ -8,7 +8,10 @@ def list_of_items():
     items.append(False)
 
     # Add the last four items to the list called items using concatinate.
-    items += [8, 67, 'apple', 6.5]
+    items += [8]
+    items += [67]
+    items += ['apple']
+    items += [6.5]
 
     return items
 
